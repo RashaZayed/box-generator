@@ -1,0 +1,12 @@
+input {
+    background-color: #efefef;
+   margin: 20px;
+}
+.colorBox {
+   
+    display: inline-block;
+}
+div{
+    margin: 20px;
+    text-align : center;
+}
